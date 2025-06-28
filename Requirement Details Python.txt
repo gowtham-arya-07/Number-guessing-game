@@ -1,0 +1,8 @@
+| Requirement        | Details                       |
+| ------------------ | ----------------------------- |
+| Python Version     | Python 3.x                    |
+| Modules Used       | `random` (built-in)           |
+| External Libraries | None                          |
+| Input Needed       | Integers (low, high, guesses) |
+| Environment        | CLI / Terminal / IDE          |
+
